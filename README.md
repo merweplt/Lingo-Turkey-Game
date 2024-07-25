@@ -1,0 +1,2 @@
+# Lingo Turkey Game
+ This project is the Turkish version of the word guessing game Lingo. It is implemented using Python as a server-client application. The server manages the guessing game with a randomly selected word, while the client receives guesses from the user, sends them to the server, and receives responses. The game allows users to guess the letters of the word and provides feedback on correct guesses.
